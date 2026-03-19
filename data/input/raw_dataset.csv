@@ -1,0 +1,19 @@
+order_id,customer_name,product,quantity,unit_price,order_date,status,region
+1001,john smith,Laptop,2,899.99,2024-01-15,completed,north
+1002,MARIA GARCIA,Monitor,1,349.99,2024/01/16,completed,South
+1003,  Bob Johnson  ,Keyboard,3,79.99,01-16-2024,pending,East
+1004,Sarah Lee,Mouse,2,49.99,2024-01-17,completed,West
+1005,john smith,Laptop,2,899.99,2024-01-15,completed,north
+1006,Carlos Mendez,Headphones,1,199.99,2024-01-18,cancelled,South
+1007,,Webcam,1,89.99,2024-01-18,pending,East
+1008,Emily Davis,Desk Chair,1,9999.99,2024-01-19,completed,West
+1009,michael brown,Laptop,1,899.99,20240120,completed,North
+1010,Anna Wilson,Monitor,2,349.99,2024-01-20,completed,South
+1011,Carlos Mendez,Headphones,1,199.99,2024-01-18,cancelled,South
+1012,  Lisa Taylor  ,Keyboard,4,79.99,2024-01-21,completed,East
+1013,David Moore,Mouse,-3,49.99,2024-01-21,pending,West
+1014,Jennifer White,Webcam,2,89.99,2024-01-22,completed,North
+1015,Robert Harris,Desk Chair,1,459.99,2024-01-22,completed,South
+1016,,Monitor,1,349.99,2024-01-23,completed,East
+1017,Patricia Clark,Laptop,1,899.99,2024-01-23,completed,West
+1018,Thomas Lewis,Mouse,100,49.99,2024-01-24,pending,North
